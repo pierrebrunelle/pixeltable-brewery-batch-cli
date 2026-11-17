@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or adapt this example app, please cite it using these metadata."
+type: software
+title: "Brewery Batches CLI built with Pixeltable"
+abstract: "A command-line tool for a brewery's fermentation log: batches and hydrometer readings as Pixeltable tables, ABV and attenuation from expression UDFs, temperature-corrected gravity readings, and the same commands against Pixeltable Cloud."
+authors:
+  - given-names: "Pierre"
+    family-names: "Brunelle"
+repository-code: "https://github.com/pierrebrunelle/pixeltable-brewery-batch-cli"
+url: "https://pierrebrunelle.github.io/awesome-pixeltable-apps/"
+license: Apache-2.0
+version: "0.1.0"
+date-released: 2026-11-17
+keywords:
+  - "pixeltable"
+  - "pixeltable-example"
+  - "python"
+  - "cli"
+  - "brewing"
+  - "fermentation"
+  - "homebrew"
+  - "argparse"
+  - "expression-udf"
+  - "udf"
